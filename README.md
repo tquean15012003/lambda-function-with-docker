@@ -21,7 +21,7 @@ This tutorial helps developers deploy Lambda functions with Docker images, overc
 #### 3. Push Docker Image to ECR
 
 1. Navigate the ternimal to `deployment` folder
-2. Run `deployment.sh` file
+2. Run `deploy.sh` file
 
 ```bash
 bash deployment/deploy.sh dev
