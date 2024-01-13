@@ -24,7 +24,7 @@ This tutorial helps developers deploy Lambda functions with Docker images, overc
 2. Run `deploy.sh` file
 
 ```bash
-bash deployment/deploy.sh dev
+bash deploy.sh dev
 ```
 
 #### 4. Create Lambda function
