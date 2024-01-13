@@ -6,7 +6,6 @@ This tutorial helps developers deploy Lambda functions with Docker images, overc
 
 - [Docker](https://docs.docker.com/engine/install/)
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-- [Terraform CLI](https://developer.hashicorp.com/terraform/install)
 
 ## Deployment steps
 
